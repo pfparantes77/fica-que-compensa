@@ -2,3 +2,4 @@ streamlit
 fpdf
 pandas
 openpyxl
+python-dotenv
