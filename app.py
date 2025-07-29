@@ -1,4 +1,3 @@
-import gradio as gr
 from fpdf import FPDF
 import smtplib
 from email.message import EmailMessage
